@@ -1,0 +1,6 @@
+/* Design system de la suite : jetons clair / sombre, en-tête commun, boutons, champs, cases à cocher */
+@import "night-navy/night-navy.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

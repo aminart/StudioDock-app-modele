@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<title>Icône provisoire : à remplacer par celle de l'app</title>
+<defs>
+<linearGradient id="fond" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#C9CEDB"/><stop offset=".55" stop-color="#8790A8"/><stop offset="1" stop-color="#4A5168"/></linearGradient>
+<linearGradient id="blanc" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#EEF1FA"/></linearGradient>
+<linearGradient id="ambre" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFD08A"/><stop offset="1" stop-color="#F0B35B"/></linearGradient>
+<clipPath id="tuile"><rect width="512" height="512" rx="116"/></clipPath>
+<filter id="ombre" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="12"/></filter>
+</defs>
+<rect width="512" height="512" rx="116" fill="url(#fond)"/>
+
+<g fill="url(#blanc)"><rect x="90" y="110" width="332" height="292" rx="46"/></g><g fill="#B5BCCD"><rect x="140" y="200" width="200" height="36" rx="18"/><rect x="140" y="272" width="140" height="36" rx="18"/></g><circle cx="400" cy="392" r="60" fill="url(#ambre)"/>
+</svg>
